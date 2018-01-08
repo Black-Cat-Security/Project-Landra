@@ -17,3 +17,9 @@ Stress test on update server and mirrors
 
 ### February 2018
 More bugfixes and further testing by the community
+
+
+## Version Codenames
+
+### 1.0-1.9 "Cheetah" (31/01/18)
+Primarily a testing release but still fully functional as a security based operating system.
